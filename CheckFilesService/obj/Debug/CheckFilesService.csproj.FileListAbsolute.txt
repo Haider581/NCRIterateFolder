@@ -1,0 +1,20 @@
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.AssemblyReference.cache
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.SuggestedBindingRedirects.cache
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.ProjectInstaller.resources
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.GenerateResource.cache
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.CoreCompileInputs.cache
+F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe.config
+F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.pdb
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.exe
+F:\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.pdb
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe.config
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.pdb
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.AssemblyReference.cache
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.SuggestedBindingRedirects.cache
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.ProjectInstaller.resources
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.GenerateResource.cache
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.csproj.CoreCompileInputs.cache
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.exe
+C:\Users\hm185128\OneDrive - NCR Corporation\Documents\PROJ\Codes\NCRIterateFolder\CheckFilesService\obj\Debug\CheckFilesService.pdb

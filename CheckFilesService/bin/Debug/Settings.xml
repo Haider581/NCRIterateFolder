@@ -1,0 +1,4 @@
+<Settings>
+		<Fileconfiguration>C:\FilesConfigurations.xml</Fileconfiguration>
+		<ServiceReloadTimer>10000</ServiceReloadTimer> <!-- In milliseconds !-->
+</Settings>

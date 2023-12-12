@@ -1,0 +1,73 @@
+2022-07-04 15:36:38 Service Started
+2022-07-04 15:36:48 The 'Source1' start tag on line 3 position 5 does not match the end tag of 'Source'. Line 10, position 6.
+2022-07-04 15:36:58 The 'Source1' start tag on line 3 position 5 does not match the end tag of 'Source'. Line 10, position 6.
+2022-07-04 15:37:08 The 'Source1' start tag on line 3 position 5 does not match the end tag of 'Source'. Line 10, position 6.
+2022-07-04 15:37:18 The 'Source1' start tag on line 3 position 5 does not match the end tag of 'Source'. Line 10, position 6.
+2022-07-04 15:37:28 The 'Source1' start tag on line 3 position 5 does not match the end tag of 'Source'. Line 10, position 6.
+2022-07-04 15:37:38 The 'Source1' start tag on line 3 position 5 does not match the end tag of 'Source'. Line 10, position 6.
+2022-07-04 15:37:48 #FADA0CE1.jpg from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 $0AE10271.doc from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 $8E48996B.xls from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 cxp-updated.properties from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 DispatchWorkflow-Commands.txt from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 Email_Dispatch_configuration-Incoming_Outgoing.pdf from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 ExportedTerminals_2021-06-30_100331.csv from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 incident-dispatch-mail.properties from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 LabInstall.zip from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 PSCOE Session on Gasper.docx from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 reportQuery from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 SA CERT Vision Certified_Haider Mustafa_signed.pdf from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 SolutionManual -- SWD--Large File Dispatching.pdf from C:\Source\ has been moved to C:\Destination\
+2022-07-04 15:37:48 #FADA0CE1.jpg from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 #FADA0CE1.jpg from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 #FADA0CE1.jpg from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 #FADA0CE1.jpg from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 $0AE10271.doc from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 $0AE10271.doc from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 $0AE10271.doc from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 $0AE10271.doc from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 $8E48996B.xls from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 $8E48996B.xls from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 $8E48996B.xls from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 $8E48996B.xls from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 cxp-updated.properties from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 cxp-updated.properties from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 cxp-updated.properties from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 cxp-updated.properties from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 DispatchWorkflow-Commands.txt from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 DispatchWorkflow-Commands.txt from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 DispatchWorkflow-Commands.txt from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 DispatchWorkflow-Commands.txt from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 Email_Dispatch_configuration-Incoming_Outgoing.pdf from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 Email_Dispatch_configuration-Incoming_Outgoing.pdf from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 Email_Dispatch_configuration-Incoming_Outgoing.pdf from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 Email_Dispatch_configuration-Incoming_Outgoing.pdf from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 ExportedTerminals_2021-06-30_100331.csv from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 ExportedTerminals_2021-06-30_100331.csv from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 ExportedTerminals_2021-06-30_100331.csv from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 ExportedTerminals_2021-06-30_100331.csv from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 incident-dispatch-mail.properties from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:48 incident-dispatch-mail.properties from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:48 incident-dispatch-mail.properties from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:48 incident-dispatch-mail.properties from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:48 LabInstall.zip from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:49 LabInstall.zip from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:49 LabInstall.zip from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:49 LabInstall.zip from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:49 PSCOE Session on Gasper.docx from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:49 PSCOE Session on Gasper.docx from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:49 PSCOE Session on Gasper.docx from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:49 PSCOE Session on Gasper.docx from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:49 reportQuery from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:49 reportQuery from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:49 reportQuery from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:49 reportQuery from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:49 SA CERT Vision Certified_Haider Mustafa_signed.pdf from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:49 SA CERT Vision Certified_Haider Mustafa_signed.pdf from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:49 SA CERT Vision Certified_Haider Mustafa_signed.pdf from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:49 SA CERT Vision Certified_Haider Mustafa_signed.pdf from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:37:49 SolutionManual -- SWD--Large File Dispatching.pdf from D:\Source\ has been moved to D:\Destination1\
+2022-07-04 15:37:49 SolutionManual -- SWD--Large File Dispatching.pdf from D:\Source\ has been moved to D:\Destination2\
+2022-07-04 15:37:49 SolutionManual -- SWD--Large File Dispatching.pdf from D:\Source\ has been moved to D:\Destination3\
+2022-07-04 15:37:49 SolutionManual -- SWD--Large File Dispatching.pdf from D:\Source\ has been moved to D:\Destination4\
+2022-07-04 15:38:28 Service Stopped

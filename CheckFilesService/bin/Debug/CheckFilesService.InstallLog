@@ -1,0 +1,559 @@
+﻿Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Rolling back assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Creating EventLog source ncr_file_checker in log Application...
+Rolling back assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Restoring event log to previous state for source ncr_file_checker.
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Attempt to stop service ncr_file_checker.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Attempt to stop service ncr_file_checker.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Attempt to stop service ncr_file_checker.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Creating EventLog source ncr_file_checker in log Application...
+Rolling back assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Restoring event log to previous state for source ncr_file_checker.
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Warning: The source ncr_file_checker is not registered on the local machine.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Creating EventLog source ncr_file_checker in log Application...
+Rolling back assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Restoring event log to previous state for source ncr_file_checker.
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Warning: The source ncr_file_checker is not registered on the local machine.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Creating EventLog source ncr_file_checker in log Application...
+Rolling back assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Restoring event log to previous state for source ncr_file_checker.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Creating EventLog source ncr_file_checker in log Application...
+Rolling back assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Restoring event log to previous state for source ncr_file_checker.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source file_Checker.
+Warning: The source file_Checker is not registered on the local machine.
+Service file_Checker is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source file_Checker.
+Warning: The source file_Checker is not registered on the local machine.
+Service file_Checker is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source file_Checker.
+Warning: The source file_Checker is not registered on the local machine.
+Service file_Checker is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Uninstalling assembly 'F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = F:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Uninstalling assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Creating EventLog source ncr_file_checker in log Application...
+Rolling back assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Restoring event log to previous state for source ncr_file_checker.
+Uninstalling assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Removing EventLog source ncr_file_checker.
+Service ncr_file_checker is being removed from the system...
+Service ncr_file_checker was successfully removed from the system.
+Installing assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe
+Installing service ncr_file_checker...
+Service ncr_file_checker has been successfully installed.
+Creating EventLog source ncr_file_checker in log Application...
+Committing assembly 'D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.InstallLog
+   assemblypath = D:\NCRIterateFolder\CheckFilesService\bin\Debug\CheckFilesService.exe

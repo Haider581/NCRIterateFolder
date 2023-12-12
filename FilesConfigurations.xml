@@ -1,0 +1,22 @@
+<Path>
+		<Source>I:\Source\</Source>
+		<Destinations>
+			<!-- <Destination networkBased="false">
+				<address>F:\Files\Destination1\</address>
+			</Destination>
+			<Destination networkBased="false">
+				<address>F:\Files\Destination2\</address>
+			</Destination>
+			<Destination networkBased="false">
+				<address>F:\Files\Destination3\</address>
+			</Destination>
+			<Destination networkBased="false">
+				<address>F:\Files\Destination4\</address>
+			</Destination> !-->
+			<Destination networkBased="true" authentication="true">
+				<address>\\192.168.18.114\Common\</address>
+				<username>corp\hm185128</username>
+				<password>Pakistan@88701215</password>
+			</Destination>
+		</Destinations>
+</Path>

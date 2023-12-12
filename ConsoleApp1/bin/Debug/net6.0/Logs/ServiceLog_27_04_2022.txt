@@ -1,0 +1,32 @@
+2022-04-27 16:26:26 New Microsoft Excel Worksheet - Copy.xlsx from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:26:27 New Microsoft Excel Worksheet - Copy.xlsx from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:26:28 New Microsoft Excel Worksheet - Copy.xlsx from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:02 New Microsoft Excel Worksheet - Copy.xlsx from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Microsoft Excel Worksheet.xlsx from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Microsoft Excel Worksheet.xlsx from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Microsoft Excel Worksheet.xlsx from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Microsoft Excel Worksheet.xlsx from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Text Document (2) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Text Document (2) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Text Document (2) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Text Document (2) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Text Document (2).txt from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Text Document (2).txt from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Text Document (2).txt from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Text Document (2).txt from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Text Document (3) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Text Document (3) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Text Document (3) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Text Document (3) - Copy.txt from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Text Document - Copy (2).txt from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Text Document - Copy (2).txt from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Text Document - Copy (2).txt from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Text Document - Copy (2).txt from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Text Document - Copy.txt from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Text Document - Copy.txt from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Text Document - Copy.txt from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Text Document - Copy.txt from I:\Source\ has been moved to F:\Files\Destination4\
+2022-04-27 16:27:23 New Text Document.txt from I:\Source\ has been moved to F:\Files\Destination1\
+2022-04-27 16:27:23 New Text Document.txt from I:\Source\ has been moved to F:\Files\Destination2\
+2022-04-27 16:27:23 New Text Document.txt from I:\Source\ has been moved to F:\Files\Destination3\
+2022-04-27 16:27:23 New Text Document.txt from I:\Source\ has been moved to F:\Files\Destination4\
